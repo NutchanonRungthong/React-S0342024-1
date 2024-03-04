@@ -1,12 +1,9 @@
-import Hello from './assests/Hello';
+import Hello from './assets/Hello';
 
-export default function App() {
+export default function Hello() {
     return (
-        <div classname = 'App'>
+        <div className=''>
             <Hello/>
         </div>
-
     );
 }
-
-export default App;
